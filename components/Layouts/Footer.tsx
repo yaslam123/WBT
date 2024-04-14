@@ -85,17 +85,17 @@ const Footer = () => {
                         </ul>
                         <ul className="mt-[2rem] flex items-center gap-8">
                             <li>
-                                <Link href="#">
+                                <Link href="https://www.facebook.com/WTKHBGalmudug">
                                     <FaFacebookF className="text-[24px] transition hover:scale-110 hover:text-primary" />
                                 </Link>
                             </li>
                             <li>
-                                <Link href="#">
+                                <Link href="https://www.facebook.com/WTKHBGalmudug">
                                     <FaInstagram className="text-[24px] transition hover:scale-110 hover:text-primary" />
                                 </Link>
                             </li>
                             <li>
-                                <Link href="#">
+                                <Link href="https://twitter.com/MoEWRGalmudug?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Escreen-name%3AMoEWRGalmudug%7Ctwcon%5Es2">
                                     <FaXTwitter className="text-[24px] transition hover:scale-110 hover:text-primary" />
                                 </Link>
                             </li>

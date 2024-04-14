@@ -62,7 +62,9 @@ const Index = (props: any) => {
                 </div>
             </section>
             <section className="bg-[#f8f8f8] py-14 lg:py-[20px]">
-                <h3 className="mb-10 text-center text-4xl font-extrabold text-black dark:text-white lg:mb-14">The Ministry's Partners</h3>
+                <h3 id="mp" className="mb-10 text-center text-4xl font-extrabold text-black dark:text-white lg:mb-14">
+                    The Ministry's Partners
+                </h3>
                 <LogoSlider />
             </section>
             <section id="services" className="bg-white py-14 dark:bg-none lg:py-[100px]">

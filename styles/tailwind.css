@@ -301,3 +301,10 @@ header .menus.open-menus {
 #head3 {
     @apply text-[12px] font-bold text-black;
 }
+@media (max-width: 639px) {
+    #mp {
+        padding-left: 20px;
+        padding-right: 20px;
+        font-size: 1.7rem;
+    }
+}
