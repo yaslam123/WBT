@@ -173,13 +173,13 @@ const News = (props: any) => {
             </div>
             <section className="relative bg-gradient-to-t from-white/60 py-12 dark:bg-[#F6F8FD]/10 dark:from-transparent lg:py-24">
                 <div className="absolute bottom-0 max-w-[550px] opacity-10 ltr:left-[450px] rtl:right-0">
-                    <img src="/about.png" className="h-full w-full object-cover" alt="" />
+                    <img src="/Logo Galmudug.png" className="h-full w-full object-cover" alt="" />
                 </div>
                 <div className="container">
                     <div className="flex flex-col md:flex-row">
                         <div id="sheader" className="mr-3 h-[50px] w-[7px] bg-secondary"></div>
                         <div className="heading text-center ltr:md:text-left rtl:md:text-right">
-                            <h4 className="!text-black">Our Latest News</h4>
+                            <h4 className="">Our Latest News</h4>
                         </div>
                         <div className="text-center"></div>
                     </div>

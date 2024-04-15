@@ -93,13 +93,13 @@ const org_stracture = () => {
                 <section className="bg-black bg-[url(/assets/images/modern-saas/banner-bg.png)] bg-cover bg-top bg-no-repeat pt-[82px] lg:pt-[106px]">
                     <div className="container lg:pt-7">
                         <div className="relative">
-                            <div className="pt-14 pb-8 text-center text-white lg:py-20 ltr:lg:text-left rtl:lg:text-right">
+                            {/* <div className="pt-14 pb-8 text-center text-white lg:py-20 ltr:lg:text-left rtl:lg:text-right">
                                 <h2 className="text-transform: text-3xl font-extrabold uppercase leading-normal sm:text-5xl	lg:text-[70px] lg:leading-[90px]"></h2>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </section>
-                <section className="-mt-48 bg-gradient-to-t from-white/[55%] to-transparent pt-72 pb-12 dark:bg-gradient-to-t dark:from-transparent dark:to-white/5 lg:pb-24">
+                <section className="-mt-48 bg-gradient-to-b from-white/[55%] to-transparent pt-72 pb-12 dark:bg-none lg:pb-24">
                     <div className="bg-gray-200 bg-secondary text-center">
                         <div className="heading">
                             {/* <h6 className=" !text-secondary">Our Specialties</h6> */}
@@ -221,7 +221,7 @@ const org_stracture = () => {
                         </div>
                     </div>
                 </section>
-                <section className="dark:from- transparent -mt-48 bg-gradient-to-t from-white/[55%] to-transparent pt-72 pb-12                              dark:bg-gradient-to-t dark:to-white/5 lg:pb-24">
+                <section className="bg-white pt-20 pb-12 dark:bg-gray-dark lg:pb-24">
                     <div className="">
                         <div className="bg-gray-200 text-center">
                             <div className="heading">

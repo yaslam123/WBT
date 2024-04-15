@@ -32,12 +32,12 @@ const Aboutus = () => {
                     <div className="text-center ltr:lg:text-left rtl:lg:text-right">
                         <div className="heading mb-5 text-center ltr:lg:text-left rtl:lg:text-right xl:w-[70%]">
                             <h6>Who are we?</h6>
-                            <h2 className="text-[24px] leading-[35px] text-black">
+                            <p className="">
                                 The Ministry of Energy and Water Resources is responsible for the formulation, direction and coordination of the national energy
                                 and water resources. Furthermore, the ministry involves policymaking, setting standard operation, national planning, regulation,
                                 monitoring, and technical support of regional states in relation to energy and water resources in order to promote social and
                                 economic development of the country. In service delivery, the Ministry is supported by three autonomous organizations namely{' '}
-                            </h2>
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -139,7 +139,7 @@ const Aboutus = () => {
                                         name="name"
                                         className="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 font-bold outline-none transition focus:border-secondary ltr:pr-12 rtl:pl-12"
                                     />
-                                    <label className="absolute -top-3 bg-white px-2 font-bold ltr:left-6 rtl:right-6 dark:bg-[#101626] dark:text-white">
+                                    <label className="absolute -top-3 bg-white px-2 font-bold ltr:left-6 rtl:right-6 dark:bg-[#1c2331] dark:text-white">
                                         Full Name
                                     </label>
                                     <svg
@@ -169,7 +169,7 @@ const Aboutus = () => {
                                         name="email"
                                         className="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 font-bold outline-none transition focus:border-secondary ltr:pr-12 rtl:pl-12"
                                     />
-                                    <label className="absolute -top-3 bg-white px-2 font-bold ltr:left-6 rtl:right-6 dark:bg-[#101626] dark:text-white">
+                                    <label className="absolute -top-3 bg-white px-2 font-bold ltr:left-6 rtl:right-6 dark:bg-[#1c2331] dark:text-white">
                                         Email Address
                                     </label>
                                     <svg
@@ -201,7 +201,7 @@ const Aboutus = () => {
                                         name="mobile"
                                         className="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 font-bold outline-none transition focus:border-secondary ltr:pr-12 rtl:pl-12"
                                     />
-                                    <label className="absolute -top-3 bg-white px-2 font-bold ltr:left-6 rtl:right-6 dark:bg-[#101626] dark:text-white">
+                                    <label className="absolute -top-3 bg-white px-2 font-bold ltr:left-6 rtl:right-6 dark:bg-[#1c2331] dark:text-white">
                                         Mobile Number
                                     </label>
                                     <svg
@@ -226,7 +226,7 @@ const Aboutus = () => {
                                         name="city"
                                         className="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 font-bold outline-none transition focus:border-secondary ltr:pr-12 rtl:pl-12"
                                     />
-                                    <label className="absolute -top-3 bg-white px-2 font-bold ltr:left-6 rtl:right-6 dark:bg-[#101626] dark:text-white">
+                                    <label className="absolute -top-3 bg-white px-2 font-bold ltr:left-6 rtl:right-6 dark:bg-[#1c2331] dark:text-white">
                                         City
                                     </label>
                                     <svg
@@ -258,7 +258,7 @@ const Aboutus = () => {
                                     name="message"
                                     className="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 font-bold outline-none transition focus:border-secondary ltr:pr-12 rtl:pl-12"
                                 />
-                                <label className="absolute -top-3 bg-white px-2 font-bold ltr:left-6 rtl:right-6 dark:bg-[#101626] dark:text-white">
+                                <label className="absolute -top-3 bg-white px-2 font-bold ltr:left-6 rtl:right-6 dark:bg-[#1c2331] dark:text-white">
                                     Message
                                 </label>
                                 <svg

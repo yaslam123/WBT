@@ -22,6 +22,9 @@
     .heading h4 {
         @apply text-2xl font-extrabold text-black dark:text-white sm:text-3xl lg:text-[40px] lg:!leading-[50px];
     }
+    .heading p {
+        @apply text-[22px] font-bold leading-[35px] text-black dark:text-white;
+    }
     .portfolio-filter .filter.active button,
     .upcoming-party-filter .filter.active button {
         @apply bg-secondary text-white;

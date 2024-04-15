@@ -40,19 +40,19 @@ const Index = (props: any) => {
                 </div>
             </section>
 
-            <section className="bg-white py-12 lg:py-[50px]">
+            <section className="bg-gradient-to-b from-white/[55%] to-transparent py-14 dark:bg-none">
                 <div className="container">
                     <div className="flex flex-col items-center gap-5 lg:flex-row" data-aos="fade-up" data-aos-duration="1000">
                         <div className="grid flex-1 grid-cols-1 items-center gap-10 md:grid-cols-2">
                             <div className="space-y-4 text-center ltr:md:text-left rtl:md:text-right">
                                 <div className="heading mb-5 text-center ltr:lg:text-left rtl:lg:text-right xl:w-[95%]">
-                                    <h4 className="!text-black">About The Ministry</h4>
+                                    <h4 className="">About The Ministry</h4>
+                                    <p className="mt-5 ">
+                                        The Ministry of Energy and Water Resources of Galmudg State has the mandate to oversee the State's Energy sector, set
+                                        policies, and strategic frameworks, approve tariffs for the electricity services, and build the technical capacity of
+                                        electricity service providers in Galmudug in consultation with stakeholders through open and transparent processes.
+                                    </p>
                                 </div>
-                                <h2 className="text-[22px] font-bold leading-[35px] text-black">
-                                    The Ministry of Energy and Water Resources of Galmudg State has the mandate to oversee the State's Energy sector, set
-                                    policies, and strategic frameworks, approve tariffs for the electricity services, and build the technical capacity of
-                                    electricity service providers in Galmudug in consultation with stakeholders through open and transparent processes.
-                                </h2>
                             </div>
                             <div>
                                 <img src="/Logo Galmudug.png" className="mx-auto" alt="" />
@@ -61,13 +61,13 @@ const Index = (props: any) => {
                     </div>
                 </div>
             </section>
-            <section className="bg-[#f8f8f8] py-14 lg:py-[20px]">
+            <section className="bg-white py-14 dark:bg-gray-dark lg:py-[100px]">
                 <h3 id="mp" className="mb-10 text-center text-4xl font-extrabold text-black dark:text-white lg:mb-14">
                     The Ministry's Partners
                 </h3>
                 <LogoSlider />
             </section>
-            <section id="services" className="bg-white py-14 dark:bg-none lg:py-[100px]">
+            <section id="services" className="bg-gradient-to-b from-white/[55%] to-transparent py-14 dark:bg-none">
                 <div className="container">
                     <div className="heading text-left">
                         <h4 className="text-center">Services</h4>
@@ -202,7 +202,7 @@ const Index = (props: any) => {
                     </div>
                 </div>
             </section>
-            <section className="bg-[#f8f8f8] ">
+            <section className="bg-white dark:bg-gray-dark">
                 <BlogSlider title1="Projects" title2="Our Upcoming Projects" />
             </section>
         </div>

@@ -39,13 +39,14 @@ const Resources = () => {
                             {/*  */}
                             <div className="col-span-3 space-y-4 text-center ltr:md:text-left rtl:md:text-right">
                                 <div className="heading mb-5 text-center ltr:lg:text-left rtl:lg:text-right xl:w-[95%]">
-                                    <h4 className="!text-black">Resources</h4>
+                                    <h4 className="">Resources</h4>
+                                    <p className="mt-10 text-[22px] font-bold leading-[35px]">
+                                        The Ministry of Energy and Water Resources of Galmudg State has the mandate to oversee the State's Energy sector, set
+                                        policies, and strategic frameworks, approve tariffs for the electricity services, and build the technical capacity of
+                                        electricity service providers in Galmudug in consultation with stakeholders through open and transparent processes.
+                                    </p>
                                 </div>
-                                <h2 className="text-[22px] font-bold leading-[35px] text-black">
-                                    The Ministry of Energy and Water Resources of Galmudg State has the mandate to oversee the State's Energy sector, set
-                                    policies, and strategic frameworks, approve tariffs for the electricity services, and build the technical capacity of
-                                    electricity service providers in Galmudug in consultation with stakeholders through open and transparent processes.
-                                </h2>
+
                                 <div className="grid gap-x-7 gap-y-12" data-aos={isRtl ? 'fade-left' : 'fade-right'} data-aos-duration="1000">
                                     <div className="mt-20 flex flex-col items-center rounded-3xl border-2 border-[#BBC0D0]/50 bg-secondary p-7 sm:flex-row sm:items-center sm:justify-between sm:space-y-0">
                                         <div className="flex items-center space-x-4">
