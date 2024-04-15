@@ -50,7 +50,7 @@ const LogoSlider = () => {
             </SwiperSlide>
             <SwiperSlide className="flex h-full items-center justify-center">
                 <Link href="#">
-                    <img src="/assets/images/partners logo/World Bank.png" alt="" className="mx-auto h-[50px] w-[180px] transition hover:scale-110" />
+                    <img src="/assets/images/partners logo/World Bank.png" alt="" className="mx-auto h-[40px] w-[180px] transition hover:scale-110" />
                 </Link>
             </SwiperSlide>
             <SwiperSlide>
@@ -60,7 +60,7 @@ const LogoSlider = () => {
             </SwiperSlide>
             <SwiperSlide>
                 <Link href="#">
-                    <img src="/assets/images/partners logo/unicef.png" alt="" className="mx-auto h-[50px] transition hover:scale-110" />
+                    <img src="/assets/images/partners logo/unicef.png" alt="" className="mx-auto h-[40px] transition hover:scale-110" />
                 </Link>
             </SwiperSlide>
 
