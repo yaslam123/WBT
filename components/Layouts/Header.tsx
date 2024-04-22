@@ -27,7 +27,7 @@ const Header = (props: any) => {
     };
 
     return (
-        <header className={`sticky top-0 z-50 bg-black/10 duration-300 ${props.className}`}>
+        <header className={`sticky top-0 z-50 bg-secondary duration-300 ${props.className}`}>
             <div className="container">
                 <div className="flex items-center justify-between py-5 lg:py-0">
                     <Link href="/">

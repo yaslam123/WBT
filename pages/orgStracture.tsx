@@ -90,7 +90,7 @@ const org_stracture = () => {
                 <meta name="WBT" content="WBT Galmudug" />
             </Head>
             <div className="overflow-x-hidden">
-                <section className="bg-black bg-[url(/assets/images/modern-saas/banner-bg.png)] bg-cover bg-top bg-no-repeat pt-[82px] lg:pt-[106px]">
+                <section className="bg-secondary pt-[82px] lg:pt-[106px]">
                     <div className="container lg:pt-7">
                         <div className="relative">
                             {/* <div className="pt-14 pb-8 text-center text-white lg:py-20 ltr:lg:text-left rtl:lg:text-right">
