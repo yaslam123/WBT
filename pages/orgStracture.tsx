@@ -122,9 +122,22 @@ const org_stracture = () => {
                                 <h5 className="mt-2 text-[22px] font-extrabold leading-6 text-secondary dark:text-white dark:group-hover:text-black ">
                                     Minister
                                 </h5>
-                                <p className="mt-4 px-5 text-lg font-semibold dark:group-hover:text-black">
-                                    We provide a general medical check - up & consultation of our best doctors team. We provide a general medical check - up &
-                                    consultation of our best doctors team.
+                                <p className="text-md mt-4 px-5 text-justify font-semibold dark:group-hover:text-black">
+                                    Dear Citizens <br /> I am honored to serve as the Minister of Energy and Water Resources of Galmudug. Our ministry is
+                                    dedicated to ensuring the efficient management and utilization of our energy and water resources for the benefit of all. We
+                                    strive to provide sustainable and reliable access to these essential resources, while promoting responsible practices and
+                                    environmental stewardship. Through strategic planning and collaboration with relevant stakeholders, we aim to develop and
+                                    implement policies that support the growth and diversification of our energy sector. This includes the exploration and
+                                    development of renewable energy sources, such as solar, wind, and hydroelectric power, to decrease our reliance on fossil
+                                    fuels and mitigate the impact of climate change. In the water sector, our focus is on enhancing water resource management,
+                                    improving infrastructure, and ensuring equitable access to clean water for all communities. We are committed to promoting
+                                    efficient water use, conservation measures, and the protection of water sources to meet the growing demands of our
+                                    population. As Minister, I am dedicated to fostering transparency, accountability, and inclusivity in our ministry's
+                                    operations. I encourage open dialogue, collaboration, and active engagement from citizens, industry professionals, and other
+                                    stakeholders to ensure that our policies and initiatives align with the needs and aspirations of our society. I am confident
+                                    that together, we can build a future where energy and water resources are managed sustainably, promoting economic growth,
+                                    social development, and environmental preservation. Thank you for your trust and support as we work towards a prosperous and
+                                    sustainable Galmudug. <br /> Sincerely, Abdulkadir Shire Warsame(Galbeyte)
                                 </p>
                                 <Link
                                     href="#"
@@ -151,9 +164,19 @@ const org_stracture = () => {
                                     <h5 className="mt-2 text-[22px] font-extrabold leading-6 text-secondary dark:text-white dark:group-hover:text-black ">
                                         Deputy Minister
                                     </h5>
-                                    <p className="mt-4 px-5 text-lg font-semibold dark:group-hover:text-black">
-                                        We provide a general medical check - up & consultation of our best doctors team. We provide a general medical check - up
-                                        & consultation of our best doctors team.
+                                    <p className="mt-4 px-5 text-justify text-lg font-semibold dark:group-hover:text-black">
+                                        Dear Fellow Citizens, <br /> I am honored to serve as the Deputy Minister of Energy and Water Resources of Galmudug. In
+                                        this role, I am committed to supporting the Minister in achieving our ministry's mandate of efficient energy and water
+                                        resource management. One of my key responsibilities is to ensure the implementation of policies and initiatives that
+                                        promote energy efficiency and conservation. By encouraging the adoption of energy-efficient technologies and practices,
+                                        we can reduce energy consumption, lower costs, and minimize our environmental footprint. In the water sector, I am
+                                        dedicated to improving access to clean water for all communities, especially in underserved areas. We will work towards
+                                        enhancing water infrastructure, implementing water conservation measures, and promoting awareness about the importance
+                                        of water resource management. I believe that collaboration with stakeholders, including citizens, industry
+                                        professionals, and non-governmental organizations, is vital for the success of our initiatives. I encourage you to
+                                        actively engage with our ministry, share your ideas, and contribute to the development of sustainable solutions for our
+                                        energy and water challenges. Together, we can create a brighter and more sustainable future for Galmudug. <br /> Warm
+                                        regards, Ahmed
                                     </p>
                                     <Link
                                         href="#"
@@ -178,9 +201,19 @@ const org_stracture = () => {
                                     <h5 className="mt-2 text-[22px] font-extrabold leading-6 text-secondary dark:text-white dark:group-hover:text-black ">
                                         State Minister
                                     </h5>
-                                    <p className="mt-4 px-5 text-lg font-semibold dark:group-hover:text-black">
-                                        We provide a general medical check - up & consultation of our best doctors team. We provide a general medical check - up
-                                        & consultation of our best doctors team.
+                                    <p className="mt-4 px-5 text-justify text-lg font-semibold dark:group-hover:text-black">
+                                        Esteemed Citizens of Galmudug <br /> I extend my warmest greetings as the State Minister of Energy and Water Resources.
+                                        In this role, I am committed to ensuring that the services and resources provided by our ministry are accessible to all
+                                        members of our diverse society. One of my key mandates is to promote inclusivity and equity in the management of energy
+                                        and water resources. We will work towards ensuring that every citizen, regardless of their background or geographical
+                                        location, has fair and equitable access to these essential resources. I am also dedicated to fostering partnerships with
+                                        local communities, non-profit organizations, and international agencies to address the challenges we face in the energy
+                                        and water sectors. By working together, we can develop innovative solutions, leverage expertise, and secure the
+                                        necessary resources to achieve our goals. Transparency and accountability are fundamental to our ministry's operations.
+                                        I am committed to ensuring that our activities are conducted in an open and transparent manner, with regular
+                                        communication and engagement with citizens. Your feedback and input are invaluable in shaping our policies and
+                                        initiatives. Together, let us build a sustainable and prosperous future for Galmudug, where energy and water resources
+                                        are managed equitably, and every citizen can thrive. <br /> Warm regards, Sharif Mohamud Ali
                                     </p>
                                     <Link
                                         href="#"
@@ -207,9 +240,21 @@ const org_stracture = () => {
                                 <h5 className="mt-2 text-[22px] font-extrabold leading-6 text-secondary dark:text-white dark:group-hover:text-black ">
                                     Director General
                                 </h5>
-                                <p className="mt-4 px-5 text-lg font-semibold dark:group-hover:text-black">
-                                    We provide a general medical check - up & consultation of our best doctors team. We provide a general medical check - up &
-                                    consultation of our best doctors team.
+                                <p className="mt-4 px-5 text-justify text-lg font-semibold dark:group-hover:text-black">
+                                    Dear Colleagues and Stakeholders <br /> As the Director General of the Ministry of Energy and Water Resources, I am honored
+                                    to lead a team of dedicated professionals who are committed to achieving our ministry's mandates. My primary responsibility
+                                    is to oversee the day-to-day operations of the ministry, ensuring that our policies and programs are implemented effectively
+                                    and efficiently. I am focused on fostering a culture of excellence, innovation, and collaboration within our ministry and
+                                    among our stakeholders. We are dedicated to optimizing the management and utilization of our energy and water resources.
+                                    Through strategic planning, capacity building, and the adoption of best practices, we aim to enhance the resilience and
+                                    sustainability of our energy and water sectors. Furthermore, I am committed to promoting a conducive environment for
+                                    investment and private sector participation. By creating a favorable regulatory framework and providing support to
+                                    investors, we can attract the necessary capital and expertise to drive the growth and development of our energy and water
+                                    infrastructure. I believe that the success of our ministry lies in the collective efforts of our team and the collaboration
+                                    with our stakeholders. I encourage open communication, constructive feedback, and active engagement from all parties to
+                                    ensure that our initiatives align with the needs and aspirations of our society. Together, let us work towards a future
+                                    where energy and water resources are harnessed efficiently, benefiting all citizens of Galmudug state Somalia. <br />{' '}
+                                    Sincerely, Ibrahim Abdulkadir Mohamed
                                 </p>
                                 <Link
                                     href="#"

@@ -79,7 +79,7 @@ const Footer = () => {
                             </li>
                             <li>
                                 <a href="tel:+(617) 254-2333" className="inline-block transition hover:scale-110 hover:text-primary">
-                                    +(617) 254-2333
+                                    +(252) 618-700980
                                 </a>
                             </li>
                         </ul>

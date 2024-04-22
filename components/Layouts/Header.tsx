@@ -82,7 +82,7 @@ const Header = (props: any) => {
                                     </div>
                                 </li>
                                 <li className="group relative" onClick={(e) => e.stopPropagation()}>
-                                    <Link href="#" className={router.pathname === '/News' || router.pathname === '/blog' ? 'active' : ''}>
+                                    <Link href="#" className={router.pathname === '/News' || router.pathname === '/Projects' ? 'active' : ''}>
                                         Media
                                         <div className="transition duration-500 group-hover:rotate-180 ltr:ml-2 rtl:mr-2">
                                             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -100,7 +100,7 @@ const Header = (props: any) => {
                                         <Link href="/News" className={router.pathname === '/News' ? 'active' : ''}>
                                             News & Events
                                         </Link>
-                                        <Link href="/blog" className={router.pathname === '/blog' ? 'active' : ''}>
+                                        <Link href="/Projects" className={router.pathname === '/Projects' ? 'active' : ''}>
                                             Projects
                                         </Link>
                                     </div>

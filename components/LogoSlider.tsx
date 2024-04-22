@@ -55,7 +55,7 @@ const LogoSlider = () => {
             </SwiperSlide>
             <SwiperSlide>
                 <Link href="#">
-                    <img src="/assets/images/partners logo/FEder.png" alt="" className="mx-auto h-[50px] transition hover:scale-110" />
+                    <img src="/assets/images/partners logo/undp-logo-blue.png" alt="" className="mx-auto h-[50px] transition hover:scale-110" />
                 </Link>
             </SwiperSlide>
             <SwiperSlide>
